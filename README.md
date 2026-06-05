@@ -11,9 +11,9 @@
 ## Zusammenfassung 29.05.2026
 Heute habe ich die Seite erstellt, mein LinkedIn Profil ausgefüllt und ein Paar Projekte eingetragen. (seite code ist auf dem .io Repo) Ich habe die Seite nicht ganz gemäss WireFrame gemacht, da ich dieses doch nicht perfekt fand.
 
-## Arbeitspakete 05.06.2026
 
-- [ ] Projektbilder machen und eintragen
-- [ ] Projektbeschreibungen formattieren
-- [ ] GitHub Profil verbessern/vervollständigen
-- [ ] Seite ein Bild von mir geben
+## Zusammenfassung 05.06.2026
+Heute habe ich mein GitHub-Profil verbessert, indem ich verschiedene Projekte ergänzt, Beschreibungen überarbeitet und mein Profil insgesamt professioneller gestaltet habe. Ausserdem haben wir eine Bewerbungssimulation durchgeführt. Jede Person aus der Klasse musste selbstständig vollständige Bewerbungsunterlagen erstellen und sich anschliessend per E-Mail bei zwei anderen Klassenmitgliedern auf eine vorgegebene Stelle bewerben. Dabei mussten wir die vorgegebenen Anforderungen und formellen Regeln einer echten Bewerbung einhalten.
+
+Nach dem Versand der Bewerbungen erhielt jede Person Rückmeldungen zu ihren Unterlagen. Gleichzeitig war es unsere Aufgabe, die Bewerbungen von zwei anderen Personen sorgfältig auszuwerten und konstruktives Feedback zu geben. Dadurch konnten wir nicht nur unsere eigenen Bewerbungsunterlagen verbessern, sondern auch lernen, worauf Personalverantwortliche bei Bewerbungen besonders achten und welche Fehler häufig gemacht werden, und auch wieso mann nicht immer Feedback zurückbekommt.
+
