@@ -17,3 +17,5 @@ Heute habe ich mein GitHub-Profil verbessert, indem ich verschiedene Projekte er
 
 Nach dem Versand der Bewerbungen erhielt jede Person Rückmeldungen zu ihren Unterlagen. Gleichzeitig war es unsere Aufgabe, die Bewerbungen von zwei anderen Personen sorgfältig auszuwerten und konstruktives Feedback zu geben. Dadurch konnten wir nicht nur unsere eigenen Bewerbungsunterlagen verbessern, sondern auch lernen, worauf Personalverantwortliche bei Bewerbungen besonders achten und welche Fehler häufig gemacht werden, und auch wieso mann nicht immer Feedback zurückbekommt.
 
+## Zusammenfassung 19.06.2026
+Heute habe ich guter Fortschritt gemacht beim w3schools C++ Kurs. Letzte Woche bin ich bis zum Kapitel "Data Types" gekommen, und diese Woche bis "Break/Continue". Es fällt mich noch schwer etwas richtiges zu coden in C++, aber da es so ähnlich ist an C# merke ich schon, dass mein Hirn sich nicht ausschaltet so wie bei Python/JS (dort vergesse ich irgendwie kurz, wie coden funktioniert). Das Plan für die Nächste Woche ist es, der w3schools Kurs fertigzumachen. Das endgültige Ziel ist es, ESP-32 kompatible Software schreiben zu können bis nach die Sommerferien.
